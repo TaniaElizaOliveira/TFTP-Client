@@ -18,13 +18,6 @@ This project is an implementation of a **TFTP Client**, allowing basic file tran
 
 ---
 
-## 🛠️ Installation & Setup
-### 1️⃣ Clone the Repository
-```sh
-git clone https://github.com/seu-usuario/TFTP-Client.git
-cd TFTP-Client
-```
-
 ### 2️⃣ Set Up a Virtual Environment (Recommended)
 ```sh
 python3 -m venv venv
