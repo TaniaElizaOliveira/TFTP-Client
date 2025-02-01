@@ -1,0 +1,17 @@
+# 📡 Projeto TFTP - Cliente e Servidor
+
+Este projeto implementa um **cliente e servidor TFTP** (Trivial File Transfer Protocol) usando **Python** e o daemon `tftpd-hpa` para comunicação de arquivos via **UDP**.
+
+---
+
+## 📌 Funcionalidades
+✅ Suporte a **download (`GET`)** e **upload (`PUT`)** de arquivos  
+✅ Implementação dos principais pacotes TFTP: `RRQ`, `WRQ`, `DATA`, `ACK`, `ERROR`  
+✅ Suporte a **timeouts** e **retransmissão de pacotes perdidos**  
+✅ Tratamento de **erros do protocolo TFTP**  
+✅ Modo interativo para facilitar o uso do cliente  
+
+---
+
+
+
