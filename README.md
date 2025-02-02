@@ -92,7 +92,7 @@ Destination file: testfile_local.txt
 ```sh
 Operation (get/put): put
 TFTP Server Address: 127.0.0.1
-Local file: myfile.txt
+Local file: testfile.txt
 Destination file: serverfile.txt
 ```
 
